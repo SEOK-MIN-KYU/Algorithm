@@ -1,2 +1,0 @@
-- Ternary search algorithm : log3n ->O(log n)
-- Greedy algorithm : k -> O(1)
